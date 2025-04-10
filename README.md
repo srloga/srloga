@@ -17,7 +17,7 @@ O que me move? O desejo de crescer, aprender continuamente e criar soluções qu
 - 💬 Pergunte-me sobre: JavaScript, Futebol Americano e Animes  
 - ⚡ Curiosidade: Sou atleta de futebol americano desde os meus 18 anos, neste momento estou a me preparar para a próxima época!
 
-### 🏈 Futebol Americano Passion  
+### 🏈 Futebol Americano Passion 🏈 
 
 ![Football GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwY2V6d2V6Y2F1bWJ0dGJ4Z3B5eHh4eWx0ZzZ6dHk1dGJmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
 
