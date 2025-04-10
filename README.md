@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Ramos!  
 
-<!--
-**srloga/srloga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim  
+Desenvolvedor WEB | Resiliente, Dinâmico e Comprometido com a Evolução Profissional.
+Atuando como eletricista e no setor administrativo de obras nos últimos três anos, desenvolvi habilidades como responsabilidade, organização e solução de problemas. Agora, estou direcionando minha carreira para a programação web, combinando minha experiência prática com o aprendizado em tecnologia.
 
-Here are some ideas to get you started:
+O que me move? O desejo de crescer, aprender continuamente e criar soluções que façam a diferença. Acredito que minha resiliência, empatia e determinação são diferenciais para encarar desafios e evoluir constantemente no mundo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 Sempre aberto a oportunidades e trocas de conhecimento!  
+
+- 🔭 Atualmente trabalhando em: Livraria Online em PHP & MySQL  
+- 🌱 Aprendendo: No momento, focado em React & Angular  
+- 👯 Quero colaborar em: Start-ups & adquirir experiências reais de contribuição.  
+- 🤔 Buscando ajuda com: Vagas/Oportunidades de trabalho  
+- 💬 Pergunte-me sobre: JavaScript, Futebol Americano e Animes  
+- ⚡ Curiosidade: Sou atleta de futebol americano desde os meus 18 anos, neste momento estou a me preparar para a próxima época!
+
+---
+
+### 🛠️ Tecnologias & Ferramentas  
+
+#### Linguagens & Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+
+#### Ferramentas & Plataformas  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+
+### 📊 Estatísticas do GitHub  
+
+![Meu GitHub Stats](https://github-readme-stats.vercel.app/api?username=srloga&show_icons=true&theme=radical)  
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=srloga&layout=compact&theme=radical)  
+
+### 📫 Como me encontrar  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)  
+[![Portfólio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](#) - Em Progresso  
+
+### 🎧 Spotify Playing  
+
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2lpi)  
+
+
+⭐️ **Obrigado por visitar!** Sinta-se à vontade para entrar em contato ou contribuir em meus projetos.  
