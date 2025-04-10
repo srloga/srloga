@@ -45,14 +45,14 @@ O que me move? O desejo de crescer, aprender continuamente e criar soluções qu
 
 ### 📫 Como me encontrar  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)    
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-ramos-loga)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sr_loga)    
 
 ---
 
 ### 🎧 Spotify Playing  
 
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2lpi)  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2lpi)  
 
 ---
 
