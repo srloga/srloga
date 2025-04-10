@@ -52,7 +52,7 @@ O que me move? O desejo de crescer, aprender continuamente e criar soluções qu
 
 ### 🎧 Spotify Playing  
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22zhgaqbewm6pks5j5nuj2lpi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=22zhgaqbewm6pks5j5nuj2lpi&redirect=true)  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2l) 
 
 ---
 
