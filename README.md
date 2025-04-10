@@ -2,9 +2,12 @@
 
 ### 💻 Sobre mim  
 Desenvolvedor WEB | Resiliente, Dinâmico e Comprometido com a Evolução Profissional.
-Atuando como eletricista e no setor administrativo de obras nos últimos três anos, desenvolvi habilidades como responsabilidade, organização e solução de problemas. Agora, estou direcionando minha carreira para a programação web, combinando minha experiência prática com o aprendizado em tecnologia.
 
-O que me move? O desejo de crescer, aprender continuamente e criar soluções que façam a diferença. Acredito que minha resiliência, empatia e determinação são diferenciais para encarar desafios e evoluir constantemente no mundo da tecnologia.
+Atuando como eletricista e no setor administrativo de obras nos últimos três anos, desenvolvi habilidades como responsabilidade, organização e solução de problemas. 
+Agora, estou direcionando minha carreira para a programação web, combinando minha experiência prática com o aprendizado em tecnologia.
+
+O que me move? O desejo de crescer, aprender continuamente e criar soluções que façam a diferença. 
+Acredito que minha resiliência, empatia e determinação são diferenciais para encarar desafios e evoluir constantemente no mundo da tecnologia.
 
 📩 Sempre aberto a oportunidades e trocas de conhecimento!  
 
