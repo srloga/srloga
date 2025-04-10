@@ -17,7 +17,7 @@ Acredito que minha resiliência, empatia e determinação são diferenciais para
 - 🌱 Aprendendo: No momento, focado em React & Angular  
 - 👯 Quero colaborar em: Start-ups & adquirir experiências reais de contribuição.  
 - 🤔 Buscando ajuda com: Vagas/Oportunidades de trabalho  
-- 💬 Pergunte-me sobre: JavaScript, Futebol Americano e Animes  
+- 💬 Pergunte-me sobre: JavaScript, Tecnologias, Cultura Pop, Futebol Americano e Animes  
 - ⚡ Curiosidade: Sou atleta de futebol americano desde os meus 18 anos, neste momento estou a me preparar para a próxima época!
 
 ### 🏈 American Football Lover 🏈 
