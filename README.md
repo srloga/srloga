@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👨‍💻 Lucas Ramos | Desenvolvedor Web em Evolução
 
 ## 🚀 Minha Jornada
@@ -101,7 +103,9 @@ const lucas = {
 
 ---
 
-# Créditos: Feito com ❤️ usando [Badges](https://shields.io/) + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+ Créditos: Feito com ❤️ usando [Badges](https://shields.io/) + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-# ✨ Versão Interativa
-# 👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
+✨ Versão Interativa
+👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
+
+</div>
