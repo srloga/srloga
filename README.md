@@ -92,7 +92,9 @@ const lucas = {
 
 </div>
 
-Créditos: Feito com ❤️ usando [Badges](https://shields.io/) + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) + Spotify GitHub Profile
+---
 
-✨ Versão Interativa
-👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
+# Créditos: Feito com ❤️ usando [Badges](https://shields.io/) + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+# ✨ Versão Interativa
+# 👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
