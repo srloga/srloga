@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👨‍💻 Lucas Ramos | Desenvolvedor Web em Evolução
 
 ## 🚀 Minha Jornada
@@ -71,7 +69,7 @@ const lucas = {
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22zhgaqbewm6pks5j5nuj2l&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2l)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22zhgaqbewm6pks5j5nuj2l&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2lpi?si=O0Y6T6FvSZmJVEpphbZN4A)
 
 </div>
 
@@ -100,11 +98,10 @@ const lucas = {
 
 </div>
 
----
+
 
  Créditos: Feito com ❤️ usando [Badges](https://shields.io/) + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ Versão Interativa
 👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
 
-</div>
