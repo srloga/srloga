@@ -2,10 +2,10 @@
 
 ## 🚀 Minha Jornada
 Transformando desafios em código desde 2023.
-
 Ex-eletricista migrando para o mundo dev com:
 
 ✅ **Resiliência** | ✅ **Foco** | ✅ **Paixão por resolver problemas**
+
 
 
 ```javascript
@@ -16,6 +16,7 @@ const lucas = {
   funFact: "🏈 Wide Reciever nas horas vagas!"
 };
 ```
+
 
 
 <div align="center">
