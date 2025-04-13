@@ -9,7 +9,6 @@ Ex-eletricista migrando para o mundo dev com:
 
 ✅ **Resiliência** | ✅ **Foco** | ✅ **Paixão por resolver problemas**
 
-</div>
 
 ```javascript
 const lucas = {
@@ -78,7 +77,7 @@ const lucas = {
 
 ## 📬 Vamos Conversar!
 
-<div align="center">
+<div align-items="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-ramos-loga)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.vinicius.loga@gmail.com)  
@@ -107,3 +106,5 @@ const lucas = {
 
 ✨ Versão Interativa
 👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
+
+</div>
