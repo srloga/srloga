@@ -78,7 +78,7 @@ const lucas = {
 
 ## 🐍 Minha Atividade
 
-![Snake Animation](https://raw.githubusercontent.com/srloga/srloga/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/srloga/srloga/blob/output/github-snake.svg)
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=srloga&color=blueviolet&style=flat)
