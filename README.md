@@ -17,37 +17,82 @@ const lucas = {
   funFact: "🏈 Wide Reciever nas horas vagas!"
 };
 ```
-🛠 Tech Stack
-Linguagens & Frameworks
+## 🛠 Tech Stack
+
+### Linguagens & Frameworks
 <div align="center">
-Frontend	Backend	Databases
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+| Frontend | Backend | Databases |
+|----------|---------|-----------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+
 </div>
 
-DevOps & Ferramentas
-<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </p>
+### DevOps & Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-📈 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srloga&show_icons=true&theme=radical&hide_border=true" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srloga&layout=compact&theme=radical&hide_border=true" width="400"> </div>
+## 📈 GitHub Analytics
 
-🌟 Projetos Destacados
-🛒 Livraria Online (PHP/MySQL)
-Sistema completo com CRUD, autenticação e carrinho de compras
+<div align="center">
+  
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=srloga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srloga&layout=compact&theme=radical&hide_border=true) |
+|-------------|-------------|
 
-🎮 Jogo em JavaScript Vanilla
-Projeto lúdico para praticar DOM manipulation
+![Streak Stats](https://streak-stats.demolab.com/?user=srloga&theme=radical&hide_border=true)
 
-🎵 Minha Trilha Sonora
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=22zhgaqbewm6pks5j5nuj2l&cover_image=true&theme=novatorem" width="400"> </div>
+</div>
 
-📬 Vamos Conversar!
-<div align="center"> <a href="https://linkedin.com/in/lucas-ramos-loga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://twitter.com/sr_loga"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </div>
+## 🌟 Projetos Destacados
 
-🐍 Minha Atividade
-<div align="center"> <img src="https://raw.githubusercontent.com/srloga/srloga/output/github-contribution-grid-snake.svg" width="600"> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=srloga&color=blueviolet&style=flat"> </div>
+### 🛒 [Livraria Online (PHP/MySQL)](https://github.com/srloga/livraria-online)  
+▶ Sistema completo com CRUD, autenticação e carrinho de compras  
 
-Créditos: Feito com ❤️ usando Shields.io + GitHub Readme Stats + Spotify GitHub Profile
+### 🎮 [Jogo em JavaScript Vanilla](https://github.com/srloga/jogo-js)  
+▶ Projeto lúdico para praticar DOM manipulation  
+
+### 🖥️ [Outros Projetos](https://github.com/srloga?tab=repositories)  
+▶ Explore mais no meu GitHub  
+
+## � Minha Trilha Sonora
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22zhgaqbewm6pks5j5nuj2l&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2l)
+
+</div>
+
+## 📬 Vamos Conversar!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-ramos-loga)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.vinicius.loga@gmail.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sr_loga)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lucasramos_52656)  
+
+</div>
+
+## 🐍 Minha Atividade
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/srloga/srloga/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=srloga&color=blueviolet&style=flat)
+
+</div>
+
+Créditos: Feito com ❤️ usando [Badges](https://shields.io/) + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) + Spotify GitHub Profile
 
 ✨ Versão Interativa
-👉 Portfólio em Construção (em breve!)
+👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
