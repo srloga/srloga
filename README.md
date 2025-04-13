@@ -1,72 +1,64 @@
+👨‍💻 Lucas Ramos | Desenvolvedor Web em Evolução
 <div align="center">
+[Banner Dinâmico](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwY2V6d2V6Y2F1bWJ0dGJ4Z3B5eHh4eWx0ZzZ6dHk1dGJmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
+</div>
+🚀 Minha Jornada
+Transformando desafios em código desde 2023.
+Ex-eletricista migrando para o mundo dev com:
+✅ Resiliência | ✅ Foco | ✅ Paixão por resolver problemas
 
-# 👋 Olá, eu sou o Lucas Ramos!  
+javascript
+Copy
+const lucas = {
+  code: ["JavaScript", "Python", "PHP"],
+  tools: ["React", "Docker", "Git"],
+  currentFocus: "Construir projetos full-stack",
+  funFact: "🏈 Wide Reciever nas horas vagas!"
+};
 
-### 💻 Sobre mim  
-Desenvolvedor WEB | Resiliente, Dinâmico e Comprometido com a Evolução Profissional.
-
-Atuando como eletricista e no setor administrativo de obras nos últimos três anos, desenvolvi habilidades como responsabilidade, organização e solução de problemas. 
-Agora, estou direcionando minha carreira para a programação web, combinando minha experiência prática com o aprendizado em tecnologia.
-
-O que me move? O desejo de crescer, aprender continuamente e criar soluções que façam a diferença. 
-Acredito que minha resiliência, empatia e determinação são diferenciais para encarar desafios e evoluir constantemente no mundo da tecnologia.
-
-📩 Sempre aberto a oportunidades e trocas de conhecimento!  
-
+🛠 Tech Stack
+Linguagens & Frameworks
+<div align="center">
+Frontend	Backend	Databases
+[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)	[Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)	[MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)	[PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)	[MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
----
+DevOps & Ferramentas
+<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
 
-- 🔭 Atualmente trabalhando em: Livraria Online em PHP & MySQL  
-- 🌱 Aprendendo: No momento, focado em React & Angular  
-- 👯 Quero colaborar em: Start-ups & adquirir experiências reais de contribuição.  
-- 🤔 Buscando ajuda com: Vagas/Oportunidades de trabalho  
-- 💬 Pergunte-me sobre: JavaScript, tecnologias, cultura pop, futebol americano e animes  
-- ⚡ Curiosidade: Sou atleta de futebol americano desde os meus 18 anos, neste momento estou a me preparar para a próxima época!
+📈 GitHub Analytics
+<div align="center">
+[Estatísticas](https://github-readme-stats.vercel.app/api?username=srloga&show_icons=true&theme=radical&hide_border=true)	[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srloga&layout=compact&theme=radical&hide_border=true)
+</div>
 
-### 🏈 American Football Lover 🏈 
+🌟 Projetos Destacados
+🛒 [Livraria Online (PHP/MySQL)](https://github.com/srloga/livraria-online)
+▶ Sistema completo com CRUD, autenticação e carrinho de compras
 
-![Football GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwY2V6d2V6Y2F1bWJ0dGJ4Z3B5eHh4eWx0ZzZ6dHk1dGJmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
+🎮 [Jogo em JavaScript Vanilla](https://github.com/srloga/jogo-js)
+▶ Projeto lúdico para praticar DOM manipulation
 
----
+🎵 Minha Trilha Sonora
+<div align="center">
+[Spotify](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2l)
 
-### 🛠️ Tecnologias & Ferramentas  
+</div>
+📬 Vamos Conversar!
+<div align="center">
+[LinkedIn](https://linkedin.com/in/lucas-ramos-loga)
+[Gmail](https://mailto:lucas.vinicius.loga@gmail.com/)
+[Twitter](https://twitter.com/sr_loga)
 
-#### Linguagens & Frameworks  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+</div>
+<div align="center">
+![Snake Animation](https://github.com/srloga/srloga/blob/output/github-contribution-grid-snake.svg)
 
----
+</div>
+Créditos: Feito com ❤️ e [Badgeshttps://shields.io/] + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-#### Ferramentas & Plataformas  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+✨ Versão Interativa
+👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
 
----
-
-### 📊 Estatísticas do GitHub  
-
-![Meu GitHub Stats](https://github-readme-stats.vercel.app/api?username=srloga&show_icons=true&theme=radical)  
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=srloga&layout=compact&theme=radical)  
-
----
-
-### 📫 Como me encontrar  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-ramos-loga)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sr_loga)    
-
----
-
-### 🎧 Spotify Playing  
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2l) 
-
----
-
-⭐️ **Obrigado por visitar!** Sinta-se à vontade para entrar em contato ou contribuir em meus projetos.  
 
 
