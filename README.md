@@ -66,7 +66,7 @@ const lucas = {
 
 ## � Minha Trilha Sonora
 
-[![Spotify](https://spotify-now-playing-git-main-srloga.vercel.app/api/spotify)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2lpi?si=O0Y6T6FvSZmJVEpphbZN4A)
+[![Spotify](https://spotify-readme-omega.vercel.app/api/spotify?theme=default)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2lpi?si=O0Y6T6FvSZmJVEpphbZN4A)
 
 
 ## 📬 Vamos Conversar!
