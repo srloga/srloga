@@ -58,7 +58,7 @@ const lucas = {
 ### 🛒 [Livraria Online (PHP/MySQL)](#)  
 ▶ Sistema completo com CRUD, autenticação e carrinho de compras  
 
-### 🎮 [Jogo em JavaScript Vanilla](#)  
+### 🎮 [Jogo em JavaScript Vanilla](https://github.com/srloga/JavaScript-Memory-Game/tree/main)  
 ▶ Projeto lúdico para praticar DOM manipulation  
 
 ### 🖥️ [Outros Projetos](https://github.com/srloga?tab=repositories)  
@@ -66,7 +66,7 @@ const lucas = {
 
 ## � Minha Trilha Sonora
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22zhgaqbewm6pks5j5nuj2l&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2lpi?si=O0Y6T6FvSZmJVEpphbZN4A)
+[![Spotify](https://spotify-now-playing-git-main-srloga.vercel.app/api/spotify)](https://open.spotify.com/user/22zhgaqbewm6pks5j5nuj2lpi?si=O0Y6T6FvSZmJVEpphbZN4A)
 
 
 ## 📬 Vamos Conversar!
