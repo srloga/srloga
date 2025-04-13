@@ -1,5 +1,7 @@
 # 👨‍💻 Lucas Ramos | Desenvolvedor Web em Evolução
 
+<img src="https://github.com/srloga/srloga/blob/main/Black%20Web%20Developer%20LinkedIn%20Banner.png">
+
 ## 🚀 Minha Jornada
 Transformando desafios em código desde 2023.
 
