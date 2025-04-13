@@ -1,7 +1,7 @@
 👨‍💻 Lucas Ramos | Desenvolvedor Web em Evolução
 <div align="center">
   
-[Banner Dinâmico](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwY2V6d2V6Y2F1bWJ0dGJ4Z3B5eHh4eWx0ZzZ6dHk1dGJmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwY2V6d2V6Y2F1bWJ0dGJ4Z3B5eHh4eWx0ZzZ6dHk1dGJmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
 
 </div>
 🚀 Minha Jornada
