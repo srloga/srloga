@@ -14,6 +14,7 @@ Acredito que minha resiliência, empatia e determinação são diferenciais para
 📩 Sempre aberto a oportunidades e trocas de conhecimento!  
 
 </div>
+
 ---
 
 - 🔭 Atualmente trabalhando em: Livraria Online em PHP & MySQL  
