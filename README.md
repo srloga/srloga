@@ -9,7 +9,7 @@ Ex-eletricista migrando para o mundo dev com:
 
 ✅ **Resiliência** | ✅ **Foco** | ✅ **Paixão por resolver problemas**
 
-
+</div>
 
 ```javascript
 const lucas = {
@@ -107,5 +107,3 @@ const lucas = {
 
 ✨ Versão Interativa
 👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
-
-</div>
