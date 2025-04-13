@@ -67,7 +67,7 @@ const lucas = {
 
 ## 🎵 Minha Trilha Sonora
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22zhgaqbewm6pks5j5nuj2lpi&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22zhgaqbewm6pks5j5nuj2lpi&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📬 Vamos Conversar!
 <p align="left">
