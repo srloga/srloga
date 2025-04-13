@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Olá, eu sou o Lucas Ramos!  
 
 ### 💻 Sobre mim  
@@ -64,3 +66,5 @@ Acredito que minha resiliência, empatia e determinação são diferenciais para
 ---
 
 ⭐️ **Obrigado por visitar!** Sinta-se à vontade para entrar em contato ou contribuir em meus projetos.  
+
+</div>
