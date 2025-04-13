@@ -67,7 +67,7 @@ const lucas = {
 
 ## 🎵 Minha Trilha Sonora
 
-[![Spotify](https://spotify-readme-omega.vercel.app/api/spotify?theme=default)](https://camo.githubusercontent.com/0c9768917abed2e79b4912df500c34ebdea7fbc0c505f5b7debe59af66b48eb6/68747470733a2f2f7474686e2e707974686f6e616e7977686572652e636f6d3f7370696e3d74727565267363616e3d747275652665715f636f6c6f723d7261696e626f77267468656d653d6461726b)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22zhgaqbewm6pks5j5nuj2lpi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📬 Vamos Conversar!
 <p align="left">
