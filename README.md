@@ -55,10 +55,10 @@ const lucas = {
 
 ## 🌟 Projetos Destacados
 
-### 🛒 [Livraria Online (PHP/MySQL)](https://github.com/srloga/livraria-online)  
+### 🛒 [Livraria Online (PHP/MySQL)](#)  
 ▶ Sistema completo com CRUD, autenticação e carrinho de compras  
 
-### 🎮 [Jogo em JavaScript Vanilla](https://github.com/srloga/jogo-js)  
+### 🎮 [Jogo em JavaScript Vanilla](#)  
 ▶ Projeto lúdico para praticar DOM manipulation  
 
 ### 🖥️ [Outros Projetos](https://github.com/srloga?tab=repositories)  
@@ -89,5 +89,5 @@ const lucas = {
  Créditos: Feito com ❤️ usando [Badges](https://shields.io/) + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ Versão Interativa
-👉 [Portfólio em Construção](https://srloga.dev/) (em breve!)
+👉 [Portfólio em Construção](#) (em breve!)
 
