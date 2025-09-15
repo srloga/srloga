@@ -56,7 +56,7 @@ const lucas = {
 
 ## 🌟 Projetos Destacados
 
-### 🛒 [Livraria Online (PHP/MySQL)](#)  
+### 🛒 [Livraria Online (PHP/MySQL)](https://github.com/srloga/livraria_online)  
 ▶ Sistema completo com CRUD, autenticação e carrinho de compras  
 
 ### 🎮 [Jogo em JavaScript Vanilla](https://github.com/srloga/JavaScript-Memory-Game/tree/main)  
