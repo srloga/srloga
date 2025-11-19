@@ -59,8 +59,8 @@ const lucas = {
 ### 🛒 [Livraria Online (PHP/MySQL)](https://github.com/srloga/livraria_online)  
 ▶ Sistema completo com CRUD, autenticação e carrinho de compras  
 
-### 🎮 [Jogo em JavaScript Vanilla](https://github.com/srloga/JavaScript-Memory-Game/tree/main)  
-▶ Projeto lúdico para praticar DOM manipulation  
+### 🎮 [Agência de Marketing Digital](https://github.com/srloga/fakeagency)  
+▶ Site para agência digital com design moderno e responsivo.
 
 ### 🖥️ [Outros Projetos](https://github.com/srloga?tab=repositories)  
 ▶ Explore mais no meu GitHub  
