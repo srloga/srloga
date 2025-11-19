@@ -89,5 +89,5 @@ const lucas = {
  Créditos: Feito com ❤️ usando [Badges](https://shields.io/) + [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ Versão Interativa <br>
-👉 [Portfólio]([https://github.com/srloga/livraria_online](https://srloga.github.io/)) 
+👉 Portfólio - https://srloga.github.io/
 
