@@ -55,8 +55,8 @@ const lucas = {
 ### 🛒 [Livraria Online (PHP/MySQL)](https://github.com/srloga/livraria_online)  
 ▶ Sistema completo com CRUD, autenticação e carrinho de compras  
 
-### 🎮 [Agência de Marketing Digital](https://github.com/srloga/fakeagency)  
-▶ Site para agência digital com design moderno e responsivo.
+### 🛒 [TechStore E-Commerce](https://github.com/srloga/techstore)  
+▶ Website para e-commerce de produtos tecnológicos com design moderno e responsivo.
 
 ### 🖥️ [Outros Projetos](https://github.com/srloga?tab=repositories)  
 ▶ Explore mais no meu GitHub  
