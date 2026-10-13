@@ -69,7 +69,7 @@ Sistema de livraria online desenvolvido como projeto full-stack, com painel admi
 
 🔗 [Repositório](https://github.com/srloga/livraria_online)
 
-### 🌐 CampoBase.pt — Landing Page
+### 🌐 campobase.pt — Landing Page
 
 Website institucional multilingue e responsivo, desenvolvido para apresentar o CampoBase, com identidade visual própria, elementos interativos e demonstrações das funcionalidades da plataforma.
 
