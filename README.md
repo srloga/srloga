@@ -10,7 +10,7 @@ Acredito que o valor do software está na sua utilidade. Gosto de desenvolver fe
 
 Atualmente, o meu principal projeto é o **CampoBase**, uma plataforma SaaS própria para gestão operacional de obras fotovoltaicas.
 
-🌍 Moreira de Cónegos, Portugal  
+🌍 Santo Tirso, Portugal  
 💼 Disponível para projetos e colaborações em desenvolvimento web  
 🌐 **[Portfólio](https://srloga.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/lucas-ramos-loga/)**
 
