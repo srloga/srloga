@@ -17,9 +17,9 @@ Atualmente, o meu principal projeto é o **CampoBase**, uma plataforma SaaS pró
 
 ---
 
-## 🚀 Projeto Principal
+## Projeto Principal
 
-### 🏗️ CampoBase — Plataforma de Gestão de Obras
+### CampoBase — Plataforma de Gestão de Obras
 
 **Produto SaaS próprio | Em desenvolvimento e validação**
 
@@ -35,7 +35,7 @@ O projeto nasce da experiência prática em operações de campo e procura reduz
 
 ---
 
-## 💻 Outros Projetos
+## Outros Projetos
 
 ### 🛒 AZ Habitação — E-commerce
 
@@ -79,7 +79,7 @@ Website institucional multilingue e responsivo, desenvolvido para apresentar o C
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Linguagens e tecnologias principais
 
@@ -100,7 +100,7 @@ Website institucional multilingue e responsivo, desenvolvido para apresentar o C
 
 ---
 
-## 🧭 Experiência Profissional
+## Experiência Profissional
 
 | Período | Empresa | Função |
 |---|---|---|
@@ -115,7 +115,7 @@ A experiência em operações, gestão de obras e desenvolvimento web influencia
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srloga&show_icons=true&theme=radical&hide_border=true)
 
@@ -123,7 +123,7 @@ A experiência em operações, gestão de obras e desenvolvimento web influencia
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 Tens um projeto, precisas de apoio técnico ou procuras alguém para desenvolver uma solução digital?
 
