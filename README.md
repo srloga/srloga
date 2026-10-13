@@ -37,7 +37,7 @@ O projeto nasce da experiência prática em operações de campo e procura reduz
 
 ## Outros Projetos
 
-### 🛒 AZ Habitação — E-commerce
+### AZ Habitação — E-commerce
 
 Reconstrução substancial de uma loja online PrestaShop a partir de uma implementação existente, realizada profissionalmente na BonúsPódio.
 
@@ -45,7 +45,7 @@ Reconstrução substancial de uma loja online PrestaShop a partir de uma impleme
 
 🔗 [Visitar loja](https://www.azhabitacao.pt/)
 
-### 💰 FinNest — Controlo Financeiro
+### FinNest — Controlo Financeiro
 
 Aplicação de página única para gestão financeira pessoal e familiar, com registo de receitas e despesas, acompanhamento de saldos, gráficos interativos e importação/exportação de dados.
 
@@ -53,7 +53,7 @@ Aplicação de página única para gestão financeira pessoal e familiar, com re
 
 🔗 [Repositório](https://github.com/srloga/finnest)
 
-### 📄 Folio — Criador de CV
+### Folio — Criador de CV
 
 Ferramenta de página única para criação e personalização de currículos, com modelos visuais, pré-visualização em tempo real, importação/exportação de dados e geração de PDF.
 
@@ -61,7 +61,7 @@ Ferramenta de página única para criação e personalização de currículos, c
 
 🔗 [Repositório](https://github.com/srloga/folio-cv)
 
-### 📚 Livraria Online — Full-stack
+### Livraria Online — Full-stack
 
 Sistema de livraria online desenvolvido como projeto full-stack, com painel administrativo, gestão de produtos, wishlist, carrinho de compras, avaliações de utilizadores e filtros avançados de pesquisa.
 
@@ -69,7 +69,7 @@ Sistema de livraria online desenvolvido como projeto full-stack, com painel admi
 
 🔗 [Repositório](https://github.com/srloga/livraria_online)
 
-### 🌐 campobase.pt — Landing Page
+### campobase.pt — Landing Page
 
 Website institucional multilingue e responsivo, desenvolvido para apresentar o CampoBase, com identidade visual própria, elementos interativos e demonstrações das funcionalidades da plataforma.
 
