@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Ramos | Web Developer & Software Builder
+# Lucas Ramos | Web Developer & Software Builder
 
 ![Banner](https://github.com/srloga/srloga/blob/main/Black%20Web%20Developer%20LinkedIn%20Banner.png)
 
